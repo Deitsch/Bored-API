@@ -65,6 +65,8 @@ The Bored API has been used in many other applications and projects:
 * [I'm Bored Alexa skill](https://www.amazon.com/gp/product/B07GDL9MP4?ie=UTF8&ref-suffix=ss_rw)
 * [Python wrapper](https://pypi.org/project/bored/)
 * [Kotlin wrapper](https://gitlab.com/CMDR_Tvis/bored-api)
+* [Swift wrapper](https://github.com/Deitsch/BoredApi)
 * [React app](https://github.com/CDAracena/Im-Bored)
 * [Vue app](https://github.com/emilsgulbis/BoredApp)
 * [iOS app](https://apps.apple.com/us/app/bored-find-what-to-do/id1475656469)
+
